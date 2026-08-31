@@ -46,15 +46,16 @@
 
 # 실수의 오차
 
-print(0.1 + 0.2 == 0.3)
-print(f"{0.1:.20f}")
-print(f"{0.2:.20f}")
-print(f"{0.3:.30f}")
+# print(0.1 + 0.2 == 0.3)
+# print(f"{0.1:.20f}")
+# print(f"{0.2:.20f}")
+# print(f"{0.3:.30f}")
 
-print(0.1)
+# print(0.1)
 
 # 형변환
-print(float(10))
-print(int(3.14))
-print(int("100"))
-print(float("3.14"))
+# print(float(10))
+# print(int(3.14))
+# print(int("100"))
+# print(float("3.14"))
+# print(str(10))
