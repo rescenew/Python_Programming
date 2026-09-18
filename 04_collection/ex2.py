@@ -75,9 +75,9 @@
 # print(nested_list[2])  # 2 출력하기
 
 # 리스트 언패킹
-# nums = [1, 2, 3, 4]
+nums = [1, 2, 3, 4]
 
-# print(*nums)
+print(*nums)
 
 # a, b, c, d = nums
 # print(a, b, c, d)
